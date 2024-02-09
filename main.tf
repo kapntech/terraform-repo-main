@@ -7,9 +7,9 @@ terraform {
     }
   }
   cloud {
-    organization = "<ORG_NAME>"
+    organization = "Kapntech"
     workspaces {
-      name = "learn-terraform-azure"
+      name = "terraform-repo-main"
     }
   }
 }
